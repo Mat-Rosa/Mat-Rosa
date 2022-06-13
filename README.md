@@ -1,5 +1,5 @@
-- :robot: passionate about technology       
-- 🧑🏻‍ self-taught person
-- :mechanical_arm: evolving every day
+- _:robot: passionate about technology_       
+- _🧑🏻‍ self-taught person_
+- _:mechanical_arm: evolving every day_
 
-_See you later! (=_
+See you later! (=
